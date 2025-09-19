@@ -1,6 +1,7 @@
 # Todo List App 📝
 
 A beautiful and functional React Native Todo List application with time-based alerts, task management, and smooth animations.
+![React Native](https://img.shields.io/badge/React_Native-0.71.8-blue) ![Expo](https://img.shields.io/badge/Expo-Managed%20Workflow-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 ## Features ✨
 
